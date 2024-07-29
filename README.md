@@ -2,6 +2,7 @@
 # My First github Program
 # _Activity report of induction programme 2024_
 ## Welcome to my GitHub repository showcasing my Excel course certificate and Report of The Induction programme
+![IMG_3437](https://github.com/user-attachments/assets/27a4152d-83d7-43a4-b43b-351fc2ea55ca)
 
 This is my excel course certificate. _#gndec_
 ## **Some of the main learnings of this course are given below**
